@@ -1,0 +1,188 @@
+[
+  [
+    {
+      "a": 6
+    },
+    "Esc",
+    "F1\n\n\n\nMute",
+    "F2\n\n\n\nV-",
+    "F3\n\n\n\nV+",
+    "F4",
+    "F5\n\n\n\nPrev",
+    "F6\n\n\n\nNext",
+    "F7\n\n\n\nPlay",
+    "F8\n\n\n\nStop",
+    "F9\n\n\n\nM",
+    "F10\n\n\n\nB-",
+    "F11\n\n\n\nB+",
+    "F12\n\n\n\nToggle",
+    {
+      "a": 5
+    },
+    "PrtSc\nNmLk",
+    "Pause\nScrLk",
+    "Delete\nInsert"
+  ],
+  [
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "~\n`",
+    "!\n\n\n\n\n\n\n\n\n\n1",
+    "@\n\n\n\n\n\n\n\n\n\n2",
+    "#\n\n\n\n\n\n\n\n\n\n3",
+    "$\n\n\n\n\n\n\n\n\n\n4",
+    "%\n\n\n\n\n\n\n\n\n\n5",
+    "^\n\n\n\n\n\n\n\n\n\n6",
+    {
+      "c": "#99cc99",
+      "sm": "cherry",
+      "sb": "gateron"
+    },
+    "&\n\n\n\n\n\n\n\n\n\n7",
+    "*\n\n\n\n\n\n\n\n\n\n8",
+    "(\n\n\n\n\n\n\n\n\n\n9",
+    ")\n+\n\n\n\n\n\n\n\n\n0",
+    {
+      "c": "#cccccc"
+    },
+    "_\n-",
+    "+\n=",
+    {
+      "a": 6,
+      "w": 1.5
+    },
+    "Backspace",
+    "Home"
+  ],
+  [
+    {
+      "a": 4,
+      "w": 1.5
+    },
+    "Tab",
+    "Q",
+    "W\n\n\n\n\n\n\n\n\n\n↑",
+    "E",
+    "R",
+    "T",
+    "Y",
+    {
+      "c": "#99cc99"
+    },
+    "U\n\n\n\n\n\n\n\n\n\n4",
+    "I\n\n\n\n\n\n\n\n\n\n5",
+    "O\n\n\n\n\n\n\n\n\n\n6",
+    "P\n\n\n\n\n\n\n\n\n\n-",
+    {
+      "c": "#cccccc"
+    },
+    "{\n[",
+    "}\n]",
+    {
+      "w": 1.5
+    },
+    "|\n\\",
+    "Page Up"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Caps Lock",
+    "A\n\n\n\n\n\n\n\n\n\n←",
+    "S\n\n\n\n\n\n\n\n\n\n↓",
+    "D\n\n\n\n\n\n\n\n\n\n→",
+    "F",
+    "G",
+    "H",
+    {
+      "c": "#99cc99"
+    },
+    "J\n\n\n\n\n\n\n\n\n\n1",
+    "K\n\n\n\n\n\n\n\n\n\n2",
+    "L\n\n\n\n\n\n\n\n\n\n3",
+    ":\n;\n\n\n\n\n\n\n\n\nx",
+    {
+      "c": "#cccccc"
+    },
+    "\"\n'",
+    {
+      "w": 2.5
+    },
+    "Enter",
+    "Page Down"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Shift",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    {
+      "c": "#99cc99"
+    },
+    "M\n\n\n\n\n\n\n\n\n\n00",
+    "<\n,\n\n\n\n\n\n\n\n\n0",
+    ">\n\n\n\n\n\n\n\n\n\n.",
+    "?\n/\n\n\n\n\n\n\n\n\n÷",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "w": 2.5
+    },
+    "Shift",
+    {
+      "a": 7
+    },
+    "↑",
+    {
+      "a": 6
+    },
+    "End"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "a": 7,
+      "w": 5.5
+    },
+    "",
+    {
+      "a": 6,
+      "w": 1.25
+    },
+    "AltGr",
+    {
+      "w": 1.25
+    },
+    "Fn",
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "a": 7
+    },
+    "←",
+    "↓",
+    "→"
+  ]
+]
